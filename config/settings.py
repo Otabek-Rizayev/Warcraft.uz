@@ -30,7 +30,7 @@ SECRET_KEY = env.str("SECRET_KEY")
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = env.bool("DEBUG", default=False)
 
-ALLOWED_HOSTS = ['warcraft.uz','www.warcraft.uz']
+ALLOWED_HOSTS = ['195.133.196.84']
 
 
 # Application definition
